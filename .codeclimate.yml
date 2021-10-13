@@ -1,6 +1,7 @@
 exclude_patterns:
 - "config/"
-- "assets/"
+- "web/"
+- "app/"
 - "public/"
 - "db/"
 - "dist/"
